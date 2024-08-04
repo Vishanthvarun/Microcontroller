@@ -31,5 +31,5 @@ int main()
 		PORTB =0b11110000;
 		__delay_ms(500);
 		}
-		}	
+}	
 	
